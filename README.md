@@ -2,7 +2,7 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
-Me chamo Ronaldo, tenho 17 anos e sou de Guarulhos. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na E.E. Jardim Fortaleza II. Sou apaixonado por tecnologia e busco sempre aprender coisas novas na área de desenvolvimento de sistemas e lógica de programação.
+Me chamo Ronaldo, tenho 17 anos e sou de Guarulhos. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na E.E. Jardim Fortaleza II. Sou apaixonado na área de desenvolvimento de sistemas e lógica de programação.
 
 <p align="left">
     <a href="https://github.com/RonaldoDev44?tab=followers">
