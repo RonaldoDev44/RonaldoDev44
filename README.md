@@ -68,7 +68,7 @@ Me chamo Ronaldo, tenho 17 anos e sou de Guarulhos. Atualmente, estou estudando 
     title="Godot"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-plain.svg"         
 />
 
 <br/>
