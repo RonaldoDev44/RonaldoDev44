@@ -71,5 +71,23 @@ Me chamo Ronaldo, tenho 17 anos e sou de Guarulhos. Atualmente, estou estudando 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-plain.svg"         
 />
 
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+/>
+
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+/>
+
 <br/>
 <br/>
