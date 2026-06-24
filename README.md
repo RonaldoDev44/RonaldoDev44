@@ -11,8 +11,7 @@ Me chamo Ronaldo, tenho 17 anos e sou de Guarulhos. Atualmente, estou estudando 
             alt="Seguidores"  
             title="Me siga no GitHub"  
             
-src="https://custom-icon-badges.demolab.com/github/followers/RonaldoDev44
-?color=236ad3&labelColor=1155ba&style=for-t
+src="https://custom-icon-badges.demolab.com/github/followers/RonaldoDev44?color=236ad3&labelColor=1155ba&style=for-t
 he-badge&logo=github&label=Seguidores&logoColor=white" 
         /> 
     </a> 
